@@ -1,6 +1,6 @@
 ---
 applications:
-- name: global-config-server
+- name: global-gateway-server
   memory: 682M
   disk_quota: 256M
   routes:
